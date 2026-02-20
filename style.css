@@ -48,6 +48,23 @@ a {
     font-weight: bold;
 }
 
+.play-btn {
+    background: #00d4ff;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.play-btn:hover {
+    background: #ffd369;
+    transform: scale(1.1);
+}
+
+
 
 
 
