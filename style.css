@@ -1,0 +1,56 @@
+
+body {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    font-family: Arial, sans-serif;
+    color: pink;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    font-size: 40px;
+    margin-top: 20px;
+    letter-spacing: 2px;
+}
+
+
+h2 {
+    margin-top: 40px;
+    font-size: 26px;
+    color: #ffd369;
+}
+
+
+p {
+    max-width: 700px;
+    margin: 10px auto;
+    line-height: 1.6;
+    color: #dcdcdc;
+}
+
+
+img {
+    border-radius: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.08);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #00d4ff;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
